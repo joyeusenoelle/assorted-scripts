@@ -18,7 +18,7 @@ Written in Dart 1.22.1.
 
 Written in the aftermath of the tragic Bowling Green massacre, this bot continues to keep America on its toes by reminding us of the danger shown by other fictional tragedies.
 
-You can see her in action [here](https://www.twitter.com/kellyanne_warns); the account is powered by a cron job.
+You can see her in action [here](https://www.twitter.com/kellyannewarns); the account is powered by a cron job.
 
 Written in Python 3.5. Requires Twython.
 
