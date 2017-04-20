@@ -26,7 +26,7 @@ Written in Python 3.5. Requires Twython.
 
 **McCoy_ebooks**
 
-Damn it, Jim, I'm a doctor, not a <random noun>!
+Damn it, Jim, I'm a doctor, not a %random noun%!
 
 You can see him in action [here](https://www.twitter.com/mccoy_ebooks). (The account is not automated and only updates when I remember to run the script.)
 
