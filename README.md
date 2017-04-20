@@ -2,7 +2,7 @@
 
 Sometimes you just need a place to stick random code that doesn't have anywhere else to live. Most of this stuff is one-off toys that I made on a whim; they might be incorporated into larger projects later but for now I'm satisfied to let them stand alone.
 
-#### blackwellsbet.dart
+### blackwellsbet.dart
 
 **Blackwell's Bet**
 
@@ -12,7 +12,7 @@ Showing off a strange, unintuitive mathematical principle. Say you have two inte
 
 Written in Dart 1.22.1.
 
-#### kellyanne.py
+### kellyanne.py
 
 **Kellyanne Warns!**
 
@@ -22,7 +22,7 @@ You can see her in action [here](https://www.twitter.com/kellyanne_warns); the a
 
 Written in Python 3.5. Requires Twython.
 
-#### mccoy_ebooks.py
+### mccoy_ebooks.py
 
 **McCoy_ebooks**
 
@@ -32,7 +32,7 @@ You can see him in action [here](https://www.twitter.com/mccoy_ebooks). (The acc
 
 Written in Python 3.5. Requires Twython.
 
-#### newArray.rb
+### newArray.rb
 
 **Array modifications**
 
