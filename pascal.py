@@ -23,6 +23,9 @@ def main(n = None, s = None):
     if s == True:
       pascal(n)
     else:
+      if n < 0:
+        print("Row number must be positive.")
+        return
       print("1")
       if n == 0:
         return
