@@ -39,3 +39,11 @@ Written in Python 3.5. Requires Twython.
 Some utility functions for arrays in Ruby, useful for including in larger scripts.
 
 Written in Ruby 2.4.
+
+### pascal.py
+
+**Pascal's Triangle**
+
+Prints out a line of Pascal's Triangle, using [this formula](https://www.futilitycloset.com/2018/01/13/a-triangle-calculator/). 
+
+When run from the command line, it prints the full Triangle up to the specified line, unless the -s/--solo flag is set at the end of the line.
