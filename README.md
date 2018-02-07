@@ -12,6 +12,14 @@ Showing off a strange, unintuitive mathematical principle. Say you have two inte
 
 Written in Dart 1.22.1.
 
+### debug.py
+
+**Quick and dirty debug logger**
+
+Useful for keeping track of state during script testing. Easy to turn on and off, easy to remove once the script is ready.
+
+Written in Python 3.6.
+
 ### kellyanne.py
 
 **Kellyanne Warns!**
